@@ -24,7 +24,7 @@ I'm frontend developer.
 <p align="center">
 <img width="40px" src="./assets/icons/sass-original.svg"> <img width="40px" src="./assets/icons/tailwind.svg">
  <img width="40px" src="./assets/icons/nextjs-original-wordmark.svg"> <img width="40px" src="./assets/icons/nodejs-original-wordmark.svg">
- <img width="40px" src="./assets/icons/graphql.svg">
+ <img width="40px" src="./assets/icons/figma-original.svg">
 </p>
 <p align="center">
 <img width="40px" src="./assets/icons/git-original-wordmark.svg"
