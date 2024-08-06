@@ -1,7 +1,8 @@
-<h2 align="center">
-Hello, my name is <a>Maria Petrovskaya</a>!<br><br>
-<a>Downloading...</a>
-</p>
+<h1 align="center">
+Hello, my name is <a>Maria Petrovskaya!</a>
+<br><br>
+Downloading...
+</h1>
 <p align="center">
 <img width="30px" src="./assets/gif/spiral.gif" alt="download"
 </p>
