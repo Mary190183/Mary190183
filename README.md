@@ -1,6 +1,6 @@
 <p align="center">
-Hi, my name is <b style="color:#AB3989">Maria Petrovskaya</b>!<br>
-I'm frontend developer.
+Hi, my name is <b style="color:#AB3989">Maria Petrovskaya</b>!<br><br>
+<b>Downloading...<b>
 </p>
 <p align="center">
 <img width="30px" src="./assets/gif/spiral.gif" alt="download"
@@ -8,7 +8,8 @@ I'm frontend developer.
 <p align="center">
 <img width="60px" src="./assets/icons/yoga_jngcmexlodvg.svg"
 </p>
-
+<br>
+<br>
 <p align="center">
 <img width="40px" src="./assets/icons/react.svg"
 </p>
