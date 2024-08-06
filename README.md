@@ -1,6 +1,6 @@
-<p align="center">
-Hi, my name is <b style="color:#AB3989">Maria Petrovskaya</b>!<br><br>
-<b>Downloading...<b>
+<h2 align="center">
+Hello, my name is <span style="color:#AB3989">Maria Petrovskaya</span>!<br><br>
+<span style="color:#AB3989">Downloading...</span>
 </p>
 <p align="center">
 <img width="30px" src="./assets/gif/spiral.gif" alt="download"
