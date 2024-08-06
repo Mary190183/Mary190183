@@ -1,6 +1,6 @@
 <h2 align="center">
-Hello, my name is <span style="color:#AB3989">Maria Petrovskaya</span>!<br><br>
-<span style="color:#AB3989">Downloading...</span>
+Hello, my name is <a style="color:#AB3989">Maria Petrovskaya</a>!<br><br>
+<a style="color:#AB3989">Downloading...</a>
 </p>
 <p align="center">
 <img width="30px" src="./assets/gif/spiral.gif" alt="download"
