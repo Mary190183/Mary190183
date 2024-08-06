@@ -1,8 +1,8 @@
 <h1 align="center">
 Hello, my name is <a href=''>Maria Petrovskaya</a></h1>
-<h2 align="center">
+<h3 align="center">
 Downloading...
-</h2>
+</h3>
 <p align="center">
 <img width="30px" src="./assets/gif/spiral.gif" alt="download"
 </p>
