@@ -1,9 +1,31 @@
-Hi, my name is Masha Petrovskaya, I'm frontend developer.
+<p align="center">
+Hi, my name is <b style="color:red">Maria Petrovskaya</b>!<br>
+I'm frontend developer.
+</p>
+<p align="center">
+<img width="30px" src="./assets/gif/spiral.gif" alt="download"
+</p>
+<p align="center">
+<img width="60px" src="./assets/icons/yoga_jngcmexlodvg.svg"
+</p>
 
-                              ![graphql](./assets/icons/graphql.svg)
-
-![npm](./assets/icons/npm.svg)![graphql](./assets/icons/graphql.svg)
-
-![react](./assets/icons/react.svg) ![typescript](./assets/icons/typescript.svg) ![graphql](./assets/icons/graphql.svg)
-
-![tailwind](./assets/icons/tailwind.svg) ![firebase](./assets/icons/firebase.svg) ![graphql](./assets/icons/graphql.svg)![graphql](./assets/icons/graphql.svg)
+<p align="center">
+<img width="40px" src="./assets/icons/react.svg"
+</p>
+<p align="center">
+  <img width="40px" src="./assets/icons/css3-original.svg"> <img width="40px" src="./assets/icons/html5-original.svg">
+</p>
+<p align="center">
+ <img width="40px" src="./assets/icons/javascript-original.svg"> <img width="40px" src="./assets/icons/npm.svg"> <img width="40px" src="./assets/icons/typescript-original.svg">
+</p>
+<p align="center">
+ <img width="40px" src="./assets/icons/vscode-original.svg">  <img width="40px" src="./assets/icons/firebase.svg"> <img width="40px" src="./assets/icons/webpack-original.svg"> <img width="40px" src="./assets/icons/vite.svg">
+</p>
+<p align="center">
+<img width="40px" src="./assets/icons/sass-original.svg"> <img width="40px" src="./assets/icons/tailwind.svg">
+ <img width="40px" src="./assets/icons/nextjs-original-wordmark.svg"> <img width="40px" src="./assets/icons/nodejs-original-wordmark.svg">
+ <img width="40px" src="./assets/icons/graphql.svg">
+</p>
+<p align="center">
+<img width="40px" src="./assets/icons/git-original-wordmark.svg"
+</p>
