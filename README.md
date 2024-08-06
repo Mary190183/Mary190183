@@ -1,5 +1,5 @@
 <p align="center">
-Hi, my name is <b style="color:red">Maria Petrovskaya</b>!<br>
+Hi, my name is <b style="color:#AB3989">Maria Petrovskaya</b>!<br>
 I'm frontend developer.
 </p>
 <p align="center">
