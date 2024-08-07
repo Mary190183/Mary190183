@@ -25,7 +25,7 @@
     width="40px" title="Typescript" alt="Typescript"
     src="./assets/icons/typescript-original.svg">
 </p>
-<!-- <p align="center"> -->
+<p align="center">
   <img
     width="40px" alt="HTML5" title="HTML5"
     src="./assets/icons/html5-original.svg">
@@ -35,7 +35,7 @@
   <img
     width="40px" alt="CSS3" title="CSS3"
     src="./assets/icons/css3-original.svg">
-<!-- </p> -->
+</p>
 <p align="center">
   <img
     width="40px" alt="VSCode" title="VSCode"
